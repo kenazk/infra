@@ -1,1 +1,1 @@
-mod 'puppetlabs-service', '1.2.0'
+mod 'puppetlabs-service', '1.4.0'
